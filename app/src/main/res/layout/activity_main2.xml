@@ -1,0 +1,13 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.dell.day2.Main2Activity"
+    android:orientation="vertical">
+    >
+
+    <fragment class="com.example.dell.day2.MainActivity_2"
+        android:id="@+id/b"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</FrameLayout>
